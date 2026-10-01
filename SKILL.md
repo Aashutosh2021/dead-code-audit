@@ -1,8 +1,7 @@
 ---
-
 name: dead-code-audit
-description: Perform a complete read-only audit of a software project to identify confirmed dead code, abandoned features, unused APIs, routes, dependencies, database artifacts, configuration, assets, duplicate implementations, legacy logic, and debug/test exposure. Use this skill when the user asks to audit, detect, identify, or report dead/unused/abandoned code or features. Never modify the project.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+description: "Perform a complete read-only audit of a software project to identify confirmed dead code, abandoned features, unused APIs, routes, dependencies, database artifacts, configuration, assets, duplicate implementations, legacy logic, and debug/test exposure. Use this skill when the user asks to audit, detect, identify, or report dead or unused code or features. Never modify the project."
+---
 
 # Dead Code & Dead Feature Audit
 
